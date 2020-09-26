@@ -53,9 +53,10 @@
 
 
 
-源文档
-<iframe width="100%" height="800px" src="test/小红帽.pdf"></iframe>
-
+源文档 [小红帽](https://daviesgit.github.io/office_handwriting/test/小红帽.pdf)
+<p align="center">
+    <iframe width="100%" height="800px" src="test/小红帽.pdf"></iframe>
+</p>
 
 
 
