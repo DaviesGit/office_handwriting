@@ -93,6 +93,8 @@
 
 ### Installation
 
+** 注意：中文版 office 请使用 export_cn 文件夹中的代码！！！ **
+
 1. Clone the repo
 ```sh
 git clone https://github.com/path/to/the/repository
